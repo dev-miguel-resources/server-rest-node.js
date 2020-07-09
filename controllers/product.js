@@ -272,3 +272,6 @@ exports.photo = (req, res, next) => {
     }
     next();
 };
+
+//decreaseQuantity
+
